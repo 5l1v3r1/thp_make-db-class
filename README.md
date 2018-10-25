@@ -1,24 +1,24 @@
-# README
+# The Hacking Project - Database of an online education site
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## :mag: The content
+In these exercises, I had to design a database for an online education site where : 
+* There will be students who can register for only one course
+* A course may have several students.
 
-* Ruby version
+**After cloning the repository, make sure to do :**
+```sh
+$ cd thp_make-db-class
+$ bundle install
+```
 
-* System dependencies
+This will install all the dependencies needed for the exercises.
 
-* Configuration
+## :european_post_office: The Strasbourgeois Crew
+Done in team with @OwwllMan, @zOmegad, @Runefire32 and @BrokenPirate. :heart:
 
-* Database creation
+<hr>
 
-* Database initialization
+***It's an exercise from the TheHackingProject bootcamp.***
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***> www.thehackingproject.org***
